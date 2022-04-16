@@ -10,9 +10,12 @@
 ---
 
 ### 📈 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Javiito32&theme=radical" width="500" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiito32&layout=compact&langs_count=8&theme=radical" width="500" height="250"/>
+<!--
 [![Javiito32 GitHub stats](https://github-readme-stats.vercel.app/api?username=Javiito32&theme=radical)](https://github.com/Javiito32)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiito32&layout=compact&langs_count=8&theme=radical)](https://github.com/Javiito32)
-
+-->
 ---
 <!--
 **Javiito32/Javiito32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
