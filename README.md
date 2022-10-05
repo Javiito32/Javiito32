@@ -5,7 +5,7 @@
 ### 🧰 Toolbox
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Frameworks%20and%20Databases&badges=JavaScript,Java,Vue.js,Python,Bootstrap,PHP,MySQL,SQL%20Server)](https://github.com/Javiito32)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Devops&badges=Git,Jira,Docker,Github,Confluence,Azure%20DevOps)](https://github.com/Javiito32)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Devops&badges=Git,Power%20Platform,Dynamics,M365,Jira,Docker,Github,Confluence,Azure%20DevOps)](https://github.com/Javiito32)
 
 ---
 
