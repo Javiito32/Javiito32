@@ -16,17 +16,19 @@
 ---
 
 ## About me <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" height="30" />
-I am a Micrososft Certified Power Platform Developer from Spain:
+I am a tech enthusiast from Spain, passionate about leveraging modern technologies to solve complex challenges.
 - <img src="https://em-content.zobj.net/source/microsoft-teams/363/telescope_1f52d.png" height="20" /> I am a Power Platform developer, but I also like to use and learn new, different and cutting-edge technologies.
-- <img src="https://em-content.zobj.net/source/microsoft-teams/363/seedling_1f331.png" height="20" /> I am currently learning Svelte, React Native and more Azure Services
+- <img src="https://em-content.zobj.net/source/microsoft-teams/363/seedling_1f331.png" height="20" /> I am currently a Docker enthusiast, focused on containerization, and expanding my skills with Azure services.
 - <img src="https://em-content.zobj.net/source/microsoft-teams/363/high-voltage_26a1.png" height="20" /> In my free time, I enjoy learning new technologies and solving coding problems
 
 ### <!--🧰--> <img src="https://em-content.zobj.net/source/microsoft-teams/363/toolbox_1f9f0.png" height="25" /> Techstack
 <div>
+  <!--
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg" title="Power Apps" alt="Power Apps" width="40" height="40"/>&nbsp;
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerautomate.svg" title="Power Automate" alt="Power Automate" width="40" height="40"/>&nbsp;
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerpages.svg" title="Power Pages" alt="Power Pages" width="40" height="40"/>&nbsp;
+  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.vsassets.io/ext/ms.vss-build-web/common-library/Nav-Launch.3tiJhd.png" title="Azure Pipelines" alt="Azure Pipelines" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
