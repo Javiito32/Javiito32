@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e471ekjipi5i62x5wcogfdtq9ypwlpe430esbw8ux8z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/>
 
   <div id="badges">
-    <a href="https://portfolio.jskhub.ovh/">
+    <a href="https://portfolio.javiito.com/">
       <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </div>
