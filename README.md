@@ -24,11 +24,11 @@ I am a tech enthusiast from Spain, passionate about leveraging modern technologi
 ### <!--🧰--> <img src="https://em-content.zobj.net/source/microsoft-teams/363/toolbox_1f9f0.png" height="25" /> Techstack
 <div>
   <!--
-  <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg" title="Power Apps" alt="Power Apps" width="40" height="40"/>&nbsp;
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerautomate.svg" title="Power Automate" alt="Power Automate" width="40" height="40"/>&nbsp;
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerpages.svg" title="Power Pages" alt="Power Pages" width="40" height="40"/>&nbsp;
   -->
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d97299e8-a25b-4a50-ac3a-9fd722caccb2" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.vsassets.io/ext/ms.vss-build-web/common-library/Nav-Launch.3tiJhd.png" title="Azure Pipelines" alt="Azure Pipelines" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -36,6 +36,7 @@ I am a tech enthusiast from Spain, passionate about leveraging modern technologi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="Node.JS" alt="Node.JS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -53,8 +54,7 @@ I am a tech enthusiast from Spain, passionate about leveraging modern technologi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiito32&layout=compact&langs_count=8&theme=radical" width="500" height="250"/>
 -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Javiito32&theme=radical&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiito32&layout=compact&langs_count=8&theme=radical" width="500" height="250"/>
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Javiito32&layout=compact&langs_count=8&theme=radical)
 <!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Javiito32&theme=dark" alt="GitHub Streak" /></a>
 -->
